@@ -1,6 +1,7 @@
 import { useState, useEffect } from "react";
 import { Link } from "react-scroll";
-
+import logo from "../../../assets/images/logoBg.png";
+import "./Navbar.css";
 function Navbar() {
   const [navActive, setNavActive] = useState(false);
 
@@ -34,8 +35,11 @@ function Navbar() {
 
   return (
     <nav className={`navbar ${navActive ? "active" : ""}`}>
-      <div>
-        <img src="./img/logo.svg" alt="Logoipsum" />
+      <div className="logo-div">
+        <span>
+          <img src={logo} alt="Logoipsum" className="logo-img" />
+        </span>
+        {/* <span>Laura</span> */}
       </div>
       <a
         className={`nav__hamburger ${navActive ? "active" : ""}`}
@@ -89,7 +93,7 @@ function Navbar() {
               About Me
             </Link>
           </li>
-          <li>
+          {/* <li>
             <Link
               onClick={closeMenu}
               activeClass="navbar--active-content"
@@ -102,7 +106,7 @@ function Navbar() {
             >
               Testimonials
             </Link>
-          </li>
+          </li> */}
         </ul>
       </div>
       <Link

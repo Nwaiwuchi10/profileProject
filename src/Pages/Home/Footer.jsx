@@ -1,12 +1,16 @@
 import { Link } from "react-scroll";
 import React from "react";
-
+import logo from "../../assets/images/logoBg.png";
 function Footer() {
   return (
     <footer className="footer--container">
       <div className="footer--link--container">
-        <div>
-          <img src="./img/logo.svg" alt="Logoipsum" />
+        <div style={{ width: "50px" }}>
+          <img
+            src={logo}
+            alt="Logoipsum"
+            style={{ width: "100%", height: "100%", objectFit: "cover" }}
+          />
         </div>
         <div className="footer--items">
           <ul>
@@ -172,7 +176,7 @@ function Footer() {
       </div>
       <hr className="divider" />
       <div className="footer--content--container">
-        <p className="footer--content">Made with 💖 by John</p>
+        <p className="footer--content">Made with 💖 by Laura</p>
         <div className="footer--social--icon">
           <ul>
             <li>

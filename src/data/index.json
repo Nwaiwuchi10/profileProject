@@ -3,26 +3,26 @@
     {
       "id": "1",
       "src": "./img/product-chain-1.png",
-      "title": "Front-End",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "title": "Business Development",
+      "description": "I started my entrepreneurial journey right out of college. At the age of 21, I incorporated my first business: a PR firm based in New York City."
     },
     {
       "id": "2",
       "src": "./img/tag-1.png",
-      "title": "Back-End",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "title": "Cryptocurrency Mining",
+      "description": "I started my entrepreneurial journey right out of college. At the age of 21, I incorporated my first business: a PR firm based in New York City."
     },
     {
       "id": "3",
       "src": "./img/feather-pen-2.png",
-      "title": "UI & UX Design",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "title": "Investment Banker  &  Consultant",
+      "description": "I started my entrepreneurial journey right out of college. At the age of 21, I incorporated my first business: a PR firm based in New York City."
     },
     {
       "id": "4",
       "src": "./img/feather-pen-1.png",
-      "title": "Webflow Development",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "title": "Crypto exchanges and Crypto wallets",
+      "description": "I started my entrepreneurial journey right out of college. At the age of 21, I incorporated my first business: a PR firm based in New York City."
     }
   ],
   "portfolio": [
@@ -53,7 +53,7 @@
       "id": "1",
       "count": "5",
       "src": "./img/avatar-image.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "description": "I started my entrepreneurial journey right out of college. At the age of 21, I incorporated my first business: a PR firm based in New York City.",
       "author_name": "Dianne Russel",
       "author_designation": "Starbucks"
     },
@@ -61,7 +61,7 @@
       "id": "2",
       "count": "5",
       "src": "./img/avatar-image-1.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "description": "I started my entrepreneurial journey right out of college. At the age of 21, I incorporated my first business: a PR firm based in New York City.",
       "author_name": "Kristin Watson",
       "author_designation": "Louis Vuitton"
     },
@@ -69,7 +69,7 @@
       "id": "3",
       "count": "5",
       "src": "./img/avatar-image-2.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "description": "I started my entrepreneurial journey right out of college. At the age of 21, I incorporated my first business: a PR firm based in New York City.",
       "author_name": "Kathryn Murphy",
       "author_designation": "McDonald's"
     }
