@@ -22,10 +22,12 @@ export default function HeroSection() {
             <br />
           </h1>
           <p className="hero--section-description">
-            I am a crypto trading expert who possess a deep understanding on
+            Laura Walsh Morgan is employed by ELITE GLOBE Which provides
+            investment advisory service for clients.
+            {/* I am a crypto trading expert who possess a deep understanding on
             different cryptocurrencies, market dynamics, technical analysis,
             risk management, and trading strategies with over 15years of
-            experience.
+            experience. */}
           </p>
           <div className="icons-div">
             <div>
