@@ -20,17 +20,18 @@ export default function AboutMe() {
             broader blockchain industry.
           </p>
           <p className="hero--section-description">
-            I started investing in crypto in late 2010. The more I learnt about
+            I started investing in crypto in late 2009. The more I learnt about
             the technology that crypto is built on top of (blockchain), the more
             I began to understand what profound impact this new technology would
             have on the world. From my hands on experience using crypto, needing
-            to use exchanges, setting up my own personal wallets and more, I
+            to use exchanges, setting up my own personal wallets and more.
+            {/* I
             learnt that I could help others get started with crypto so at the
             start of 2013 I began teaching crypto and have really enjoyed being
             able to help my students understand more about crypto and develop
             their skills. I look forward to teaching many more students so
             whether you just want help getting started or you need help with
-            more advanced crypto tasks, don't hesitate to book a lesson.
+            more advanced crypto tasks, don't hesitate to book a lesson. */}
           </p>
         </div>
       </div>
