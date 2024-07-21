@@ -11,5 +11,6 @@
   .logo-div {
     width: 50px;
     height: 40px;
+    object-fit: cover;
   }
 }
