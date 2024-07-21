@@ -52,9 +52,7 @@ export default function ContactMe() {
           <span className="text-md">Choose a topic</span>
           <select id="choose-topic" className="contact--input text-md">
             <option>Select One...</option>
-            {/* <option>Item 1</option>
-            <option>Item 2</option>
-            <option>Item 3</option> */}
+            <option>Crypto Investment</option>
           </select>
         </label>
         <label htmlFor="message" className="contact--label">
@@ -66,10 +64,10 @@ export default function ContactMe() {
             placeholder="Type your message..."
           />
         </label>
-        <label htmlFor="checkboc" className="checkbox--label">
+        {/* <label htmlFor="checkboc" className="checkbox--label">
           <input type="checkbox" required name="checkbox" id="checkbox" />
           <span className="text-sm">I accept the terms</span>
-        </label>
+        </label> */}
         <div>
           <button className="btn btn-primary contact--form--btn">Submit</button>
         </div>
