@@ -1,5 +1,5 @@
 import about from "../../assets/images/about.png";
-import Fade from "react-reveal/Fade";
+
 export default function AboutMe() {
   return (
     <section id="AboutMe" className="about--section">
