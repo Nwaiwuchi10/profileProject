@@ -1,7 +1,7 @@
 import data from "../../data/index.json";
 import { FaWhatsapp } from "react-icons/fa";
 export default function MyPortfolio() {
-  const phoneNumber = "+97470088156";
+  const phoneNumber = "+12013782770";
   const WhatsappClick = () => {
     const url = `https://wa.me/${phoneNumber}`;
     window.open(url, "_blank");
@@ -10,7 +10,7 @@ export default function MyPortfolio() {
     <section className="portfolio--section" id="MyPortfolio">
       <div className="portfolio--container-box">
         <div className="portfolio--container">
-          <p className="sub--title">Keep In Touch</p>
+          <p className="sub--title">Get In Touch</p>
           <h2 className="section--heading">Quick Messsage</h2>
         </div>
         <div>

@@ -1,4 +1,5 @@
 import about from "../../assets/images/about.png";
+import Fade from "react-reveal/Fade";
 export default function AboutMe() {
   return (
     <section id="AboutMe" className="about--section">
@@ -6,7 +7,8 @@ export default function AboutMe() {
         className="hero--section--img"
         // className="about--section--img"
       >
-        <img src={about} alt="About Me" />
+        {/* <Fade left> */} <img src={about} alt="About Me" />
+        {/* </Fade> */}
       </div>
       <div className="hero--section--content--box about--section--box">
         <div className="hero--section--content">

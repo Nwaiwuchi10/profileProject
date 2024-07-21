@@ -4,25 +4,25 @@
       "id": "1",
       "src": "./img/product-chain-1.png",
       "title": "Business Development",
-      "description": "I started my entrepreneurial journey right out of college. At the age of 21, I incorporated my first business: a PR firm based in New York City."
+      "description": "An Expert in Business Development. "
     },
     {
       "id": "2",
       "src": "./img/tag-1.png",
       "title": "Cryptocurrency Mining",
-      "description": "I started my entrepreneurial journey right out of college. At the age of 21, I incorporated my first business: a PR firm based in New York City."
+      "description": "An Expert in cryptocurrency mining."
     },
     {
       "id": "3",
       "src": "./img/feather-pen-2.png",
       "title": "Investment Banker  &  Consultant",
-      "description": "I started my entrepreneurial journey right out of college. At the age of 21, I incorporated my first business: a PR firm based in New York City."
+      "description": "A Consultant & Expert in Investment Banking."
     },
     {
       "id": "4",
-      "src": "./img/feather-pen-1.png",
+      "src": "./img/tag-1.png",
       "title": "Crypto exchanges and Crypto wallets",
-      "description": "I started my entrepreneurial journey right out of college. At the age of 21, I incorporated my first business: a PR firm based in New York City."
+      "description": "An Expert in crypto exchange & crypto wallets."
     }
   ],
   "portfolio": [
@@ -53,7 +53,7 @@
       "id": "1",
       "count": "5",
       "src": "./img/avatar-image.png",
-      "description": "I started my entrepreneurial journey right out of college. At the age of 21, I incorporated my first business: a PR firm based in New York City.",
+      "description": "I started my crypto investment entrepreneurial journey with laura walsh morgan, now i can trade like an expert ",
       "author_name": "Dianne Russel",
       "author_designation": "Starbucks"
     },
@@ -61,7 +61,7 @@
       "id": "2",
       "count": "5",
       "src": "./img/avatar-image-1.png",
-      "description": "I started my entrepreneurial journey right out of college. At the age of 21, I incorporated my first business: a PR firm based in New York City.",
+      "description": "Business Development program with laura walsh morgan has taught me business ethics and risk management in crypto trading",
       "author_name": "Kristin Watson",
       "author_designation": "Louis Vuitton"
     },
@@ -69,7 +69,7 @@
       "id": "3",
       "count": "5",
       "src": "./img/avatar-image-2.png",
-      "description": "I started my entrepreneurial journey right out of college. At the age of 21, I incorporated my first business: a PR firm based in New York City.",
+      "description": "When it comes to crypto minning, crypto exchange and investment banking, i always recommend laura walsh morgan, she is an expert",
       "author_name": "Kathryn Murphy",
       "author_designation": "McDonald's"
     }
