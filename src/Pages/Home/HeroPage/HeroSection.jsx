@@ -5,7 +5,7 @@ import { SiGmail } from "react-icons/si";
 import { BiLogoTelegram } from "react-icons/bi";
 import whatsapp from "../../../assets/images/whatsapp.png";
 export default function HeroSection() {
-  const phoneNumber = "+12013782770";
+  const phoneNumber = "+14109824888";
   const WhatsappClick = () => {
     const url = `https://wa.me/${phoneNumber}`;
     window.open(url, "_blank");
@@ -46,7 +46,7 @@ export default function HeroSection() {
               <span>
                 <IoCall />
               </span>
-              <span>+12013782770</span>{" "}
+              <span>+14109824888</span>{" "}
             </div>
           </div>
         </div>
